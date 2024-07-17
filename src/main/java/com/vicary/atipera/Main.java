@@ -1,4 +1,4 @@
-package com.vicary.zadanie_rekrutacyjne_atipera;
+package com.vicary.atipera;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

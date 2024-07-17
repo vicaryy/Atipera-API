@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vicary</groupId>
-	<artifactId>zadanie-rekrutacyjne-atipera</artifactId>
+	<artifactId>Atipera-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>zadanie-rekrutacyjne-atipera</name>
 	<description>GitHub data fetcher</description>
@@ -52,6 +52,7 @@
 			<artifactId>spring-webflux</artifactId>
 			<version>6.1.11</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>

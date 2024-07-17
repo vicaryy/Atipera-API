@@ -1,4 +1,4 @@
-package com.vicary.zadanie_rekrutacyjne_atipera.configuration;
+package com.vicary.atipera.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
