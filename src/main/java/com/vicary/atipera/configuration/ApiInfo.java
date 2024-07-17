@@ -12,6 +12,6 @@ public class ApiInfo {
     }
 
     public static String getBearerToken() {
-        return apiConfiguration.getBearerToken() == null ? "" : "Bearer " + apiConfiguration.getBearerToken();
+        return apiConfiguration.getBearerToken() == null || apiConfiguration.getBearerToken().length() < 15 ? "" : "Bearer " + apiConfiguration.getBearerToken();
     }
 }

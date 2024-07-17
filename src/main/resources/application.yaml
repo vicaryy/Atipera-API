@@ -1,0 +1,2 @@
+api-configuration:
+  bearer-token: ${TOKEN}
